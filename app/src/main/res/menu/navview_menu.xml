@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/shareApp"
+            android:checkable="true"
+            android:icon="@drawable/icon_share"
+            android:title="@string/shareApp" />
+
+        <item
+            android:id="@+id/rateUs"
+            android:checkable="true"
+            android:icon="@drawable/icon_rateus"
+            android:title="@string/rateus" />
+
+        <item
+            android:id="@+id/aboutApp"
+            android:checkable="true"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/about" />
+
+    </group>
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+
+    </group>
+
+</menu>

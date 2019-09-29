@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Color Garden</string>
+
+    <array name="tab_name">
+        <item>Theme</item>
+        <item>My Paints</item>
+    </array>
+
+    <string name="search">Search</string>
+    <string name="themes">Themes</string>
+    <string name="myPaints">My Paints</string>
+    <string name="shareApp">Share</string>
+    <string name="sharecontent">Want to use the best coloring app? Link：https://play.google.com/store/apps/details?id=uren.com.colorgarden</string>
+    <string name="pleaseselect">Please Select</string>
+    <string name="rateus">Rate Us</string>
+    <string name="commentFailed">Install an application market</string> 
+    <string name="version">version</string>  
+    <string name="authoremail">catchuren@gmail.com</string> 
+    <string name="aboutImage">Color Garden: If you have any questions
+        or suggestions about the application, please write to us.
+    </string>
+    <string name="email">Feedback</string> 
+    <string name="about">About and Description</string>
+    <string name="loadfailed">Load data failed</string> 
+    <string name="nopaint">Cannot find any data!</string>  
+    <string name="deleteAllPaints">Delete all Paints</string>
+    <string name="deleteAllPaintsSuccess">Delete completed!</string>
+    <string name="quitorsave">Before leaving, need to save your current work?</string> 
+    <string name="pleasepressexit">Press again to Exit</string> 
+    <string name="commentDialogContent">Want to rate the app?</string>    
+    <string name="welcomeusethis">Welcome to Color Garden</string>
+    <string name="lastModifty">Last modified</string>
+    <string name="loading">Loading ...</string>
+    <string name="dontshownexttime">Don\'t show next time.</string>
+    <string name="confirmDeleteAllPaints">Are you sure to delete all your paints?</string>
+    <string name="confirmOneDelete">Are you sure to delete this paint?</string>
+      
+    <string name="secretGarden1">Secret Garden 1</string> 
+    <string name="secretGarden2">Secret Garden 2</string> 
+    <string name="secretGarden3">Secret Garden 3</string> 
+    <string name="secretGarden4">Secret Garden 4</string> 
+    <string name="secretAnimals1">Animals 1</string> 
+    <string name="secretAnimals2">Animals 2</string> 
+    <string name="secretAnimals3">Animals 3</string> 
+    <string name="secretAnimals4">Animals 4</string> 
+    <string name="mandala1">Mandala 1</string> 
+    <string name="mandala2">Mandala 2</string> 
+    <string name="mandala3">Mandala 3</string> 
+    <string name="mandala4">Mandala 4</string> 
+
+    <string name="loadpicturefailed">Loading Failed, Please retry.</string>
+    <string name="advance">MORE</string>
+    <string name="undo">UNDO</string>
+    <string name="redo">REDO</string>
+    <string name="save">SAVE</string>
+    <string name="share">SHARE</string>
+    <string name="savingimage">Save to Local</string>
+    <string name="saveFailed">Save Failed</string>
+    <string name="saveSuccess">Your Paint has been saved in：</string>
+    <string name="sharemywork">Come see my new work.</string> 
+
+    <string name="open">READ</string>    
+    <string name="openfailed">Fast fingertips to create one now!</string>   
+    <string name="ok">OK</string>       
+    <string name="quit">No</string>    
+    <string name="action_more">MORE</string>   
+    <string name="marketcomment">Give me five-star</string>           
+    <string name="opensuccess">has opened for you to save work, you can continue to create it! \n
+        Click Undo to return the original image!
+    </string>    
+    <string name="nexttime">Later</string>    
+    <string name="gocomment">Give me Five</string>      
+    <string name="themelist">Theme List</string>
+     
+    <string name="paintHint">select favorite color then touch image to a blank area \n two fingers
+        can
+        zoom the image \n you can save four favorite colors, Have fun!
+    </string>
+      
+    <string name="paintHint2">After opening a saved image, press Undo to return to the original,
+        restart to coloring!\n Have fun!
+    </string>
+    <string name="comment">Comments</string>
+    <string name="logout">Logout</string>
+    <string name="addtext">Add Text</string>
+    <string name="addvoice">Add sound</string>
+    <string name="delete">DELETE</string>
+    <string name="repaint">REPAINT</string>
+    <string name="confirmRepaint">Redrawing will delete the saved works, determined to redraw
+        it?
+    </string>
+      
+    <string name="cancel">Cancel</string>
+    <string name="addeditwords_hint">write some greetings!</string>
+    <string name="textsize">Font Size</string>
+    <string name="small">small</string>
+    <string name="middle">middle</string>
+    <string name="large">large</string>
+    <string name="huge">huge</string>
+    <string name="textcolor">Font Color</string>
+    <string name="nowords">Write something please!</string>
+    <string name="timeout">Connection timed out, please try again</string>
+    <string name="addborder">Add frame</string>
+    <string name="localPaint">Local Paints</string>
+    <string name="deletePaintFailed">Delete Paints failed</string>
+    <string name="pickcolor">PICK</string>
+    <string name="pickcolorhint">Touch the color area you like, to take the color.</string>
+    <string name="pickcolorerror">Touch the correct color location.</string>
+    <string name="drawLine">AddLine</string>
+    <string name="drawLineHint">Touch the image to set the start point.</string>
+    <string name="drawLineHint_second">Touch the image to set the end point.</string>
+    <string name="drawLineHint_finish">Touch valid image area.</string>
+         
+    <string name="buxianfunction">Draw Lines</string>
+    <string name="buxianfunctionhint">Now you can draw lines in the picture, and then fill it! \n First, click anywhere on the image, set the start point.
+    </string>
+    <string name="buxianfirstpointsethint">Then touch the picture to set the end position, the system will automatically complete the line.
+    </string>
+    <string name="buxiannextpointsethint">Touch the other areas to continue draw linesUndo button can be erased the pre line.
+    </string>
+    <string name="language">Language</string>
+    <string name="menu">MENU</string>
+    <string name="social">SNS</string>
+    <string name="jianbian_color">Gradual</string>
+    <string name="normal_color">Normal</string>
+    <string name="gradualModel">Gradual Model</string>
+    <string name="gradualModelHint">Advanced features - gradient colors. Note: You can not cover other colors after a gradient color, if you want to modify, please undo first!</string>
+
+    <string name="upperYes">YES</string>
+    <string name="upperNo">NO</string>
+    <string name="lowerYes">Yes</string>
+    <string name="lowerNo">No</string>
+
+    <string name="open_sec_garden_text">You need to share the app to unlock this theme. Would you like to share the application?</string>
+    <string name="buy_theme_text">To unlock this theme, you need to buy the theme. Want to buy?</string>
+    <string name="theme_lock_opened">The theme is unlocked. Have fun :)</string>
+    <string name="unexpected_error">An unexpected error has occurred. Please try again.</string>
+
+    <string name="next">Next</string>
+    <string name="close">Close</string>
+    <string name="SKIP">SKIP</string>
+    <string name="GOT_IT">GOT IT</string>
+
+    <string name="list_movies">Fun Painting</string>
+    <string name="search_movies">Saving Pictures</string>
+    <string name="library_movies">Sharing</string>
+
+    <string name="list_movies_desc">Have fun with 12 themes and 120 coloring pictures. You will develop your creativity with features such as rich color content, frame insertion, text insertion and gradual painting.</string>
+    <string name="search_movies_desc">You can save the paints you have completed on your phone, and you can continue painting from where you left off.</string>
+    <string name="library_movies_desc">You can share your completed painting with your friends via social media platforms.</string>
+
+</resources>

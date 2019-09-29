@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Garden</string>
+
+    <array name="tab_name">
+        <item>Tema</item>
+        <item>Boyamalarım</item>
+    </array>
+
+    <string name="search">Ara</string>
+    <string name="themes">Temalar</string>
+    <string name="myPaints">Boyamalarım</string>
+    <string name="shareApp">Paylaş</string>
+    <string name="sharecontent">En iyi boyama uygulamasını kullanmak ister misin? Link：https://play.google.com/store/apps/details?id=uren.com.colorgarden</string>
+    <string name="pleaseselect">Lütfen Seçin</string>
+    <string name="rateus">Bizi Değerlendir</string>
+    <string name="commentFailed">Google Play kurulu değil</string> 
+    <string name="version">versiyon</string> 
+    <string name="authoremail">catchuren@gmail.com</string> 
+    <string name="aboutImage">Color Garden: Uygulama hakkında herhangi
+        bir sorunuz yada öneriniz var ise lütfen bize yazın.
+    </string>
+    <string name="email">Geri bildirim için</string>
+    <string name="about">Uygulama Hakkında</string> 
+    <string name="loadfailed">Veri Yüklenemedi!</string>  
+    <string name="nopaint">Kaydettiğiniz bir boyama bulunamadı!</string>
+    <string name="deleteAllPaints">Tüm Boyamaları Sil</string>
+    <string name="deleteAllPaintsSuccess">Silme Tamamlandı!</string>
+    <string name="quitorsave">Mevcut çalışmanızı kaydetmek istiyor musunuz?</string>  
+    <string name="pleasepressexit">Çıkmak için tekrar basın</string> 
+    <string name="commentDialogContent">Uygulamayı oylamak ister misiniz?</string>  
+    <string name="welcomeusethis">Color Garden Uygulamasına Hoşgeldiniz</string>
+    <string name="lastModifty">Son güncelleme</string>
+    <string name="loading">Yükleniyor ...</string>
+    <string name="dontshownexttime">Bir daha gösterme.</string>
+    <string name="confirmDeleteAllPaints">Tüm boyamaları silmek istediğine emin misin?</string>
+    <string name="confirmOneDelete">Bu boyamayı silmek istediğine emin misin?</string>
+
+    <string name="secretGarden1">Gizli Bahçe 1</string> 
+    <string name="secretGarden2">Gizli Bahçe 2</string> 
+    <string name="secretGarden3">Gizli Bahçe 3</string> 
+    <string name="secretGarden4">Gizli Bahçe 4</string> 
+    <string name="secretAnimals1">Hayvanlar 1</string> 
+    <string name="secretAnimals2">Hayvanlar 2</string> 
+    <string name="secretAnimals3">Hayvanlar 3</string> 
+    <string name="secretAnimals4">Hayvanlar 4</string> 
+    <string name="mandala1">Mandala 1</string> 
+    <string name="mandala2">Mandala 2</string> 
+    <string name="mandala3">Mandala 3</string> 
+    <string name="mandala4">Mandala 4</string> 
+
+    <string name="loadpicturefailed">Yüklenemedi, lütfen tekrar deneyiniz.</string>
+    <string name="advance">Daha</string>
+    <string name="undo">Geri Al</string>
+    <string name="redo">İleri Al</string>
+    <string name="save">Kaydet</string>
+    <string name="share">Paylaş</string>
+    <string name="savingimage">Kaydet</string>
+    <string name="saveFailed">Kaydetme başarısız</string>
+    <string name="saveSuccess">Kaydedildi：</string>
+    <string name="sharemywork">Yeni çalışmam nasıl?</string> 
+
+    <string name="open">Oku</string>    
+    <string name="openfailed">Yeni bir tane oluşturmak için hızlıca dokun!</string>   
+    <string name="ok">TAMAM</string>       
+    <string name="quit">HAYIR</string>       
+    <string name="action_more">Daha</string>   
+    <string name="marketcomment">Bizi Oyla</string>           
+    <string name="opensuccess">Orjinal resme geri dönmek için GERI AL\'a basın</string>    
+
+    <string name="nexttime">Sonra</string>    
+    <string name="gocomment">Bizi Oyla</string>      
+    <string name="themelist">Tema Listesi</string>
+
+    <string name="paintHint">Favori rengini seç, sonra boş bir alana görüntüye dokun.
+        Iki parmağını kullanarak görüntüyü yakınlaştırabilirsin.
+    </string>
+      
+    <string name="paintHint2">Kaydedilen bir görüntüyü açtıktan sonra, orijinal haline dönmek için Geri Al düğmesine basın,
+        boyamaya yeniden başlayın! İyi eğlenceler!
+    </string>
+    <string name="comment">Yorumlar</string>
+    <string name="logout">Çıkış</string>
+    <string name="addtext">Text Ekle</string>
+    <string name="addvoice">Ses Ekle</string>
+    <string name="delete">Sil</string>
+    <string name="repaint">Tekrar Boya</string>
+    <string name="confirmRepaint">Tekrar boyama kaydedilen çalışmaları silecek, devam etmek istediğine emin misin?</string>
+
+    <string name="cancel">İptal</string>
+    <string name="addeditwords_hint">Tebrik mesajı yaz!</string>
+    <string name="textsize">Font Boyutu</string>
+    <string name="small">Küçük</string>
+    <string name="middle">Orta</string>
+    <string name="large">Büyük</string>
+    <string name="huge">Çok Büyük</string>
+    <string name="textcolor">Font Rengi</string>
+    <string name="nowords">Lütfen birşeyler yaz!</string>
+    <string name="timeout">Zaman aşımı oldu, lütfen tekrar deneyin!</string>
+    <string name="addborder">Çerçeve Ekle</string>
+    <string name="localPaint">Kaydedilenler</string>
+    <string name="deletePaintFailed">Silme Başarısız</string>
+    <string name="pickcolor">Seç</string>
+    <string name="pickcolorhint">Kullanmak istediğiniz renk alanına dokunun.</string>
+    <string name="pickcolorerror">Doğru renk alanına dokunduğunuzdan emin olun.</string>
+    <string name="drawLine">Çizgi Ekle</string>
+    <string name="drawLineHint">Başlangıç noktasını ayarlamak için resme dokunun.</string>
+    <string name="drawLineHint_second">Bitiş noktasını ayarlamak için resme dokunun.</string>
+    <string name="drawLineHint_finish">Geçerli resim alanına dokunun.</string>
+
+    <string name="buxianfunction">Çizmeye Başla</string>
+    <string name="buxianfunctionhint">Şimdi çizmeye başlayabilirsiniz! Resmin üzerinde herhangi bir yeri tıklayın, başlangıç noktasını ayarlayın.
+    </string>
+    <string name="buxianfirstpointsethint">Bitiş konumunu ayarlamak için resme dokunun, sistem çizgiyi otomatik olarak tamamlayacaktır.
+    </string>
+    <string name="buxiannextpointsethint">Çizgiye devam etmek için diğer alanlara dokunun. GERİ AL ile önceki çizgiyi silebiirsiniz.
+    </string>
+    <string name="language">Dil</string>
+    <string name="menu">Menü</string>
+    <string name="social">SNS</string>
+    <string name="jianbian_color">Gradual</string>
+    <string name="normal_color">Normal</string>
+    <string name="gradualModel">Gradual Model</string>
+    <string name="gradualModelHint">Gelişmiş özellikler - kademeli renkler. Not: Kademeli bir renkten sonra diğer renkleri kapatamazsınız, değiştirmek istiyorsanız, lütfen önce geri alın!</string>
+
+    <string name="upperYes">EVET</string>
+    <string name="upperNo">HAYIR</string>
+    <string name="lowerYes">Evet</string>
+    <string name="lowerNo">Hayır</string>
+
+    <string name="open_sec_garden_text">Bu temanın kilidini açmak için uygulamayı paylaşmanız gerekiyor. Uygulamayı paylaşmak ister misiniz?</string>
+    <string name="buy_theme_text">Bu temanın kilidini açmak için temayı satın almanız gerekiyor. Satın almak ister misiniz?</string>
+    <string name="theme_lock_opened">Temanın kilidi açıldı. İyi eğlenceler :)</string>
+    <string name="unexpected_error">Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin.</string>
+
+    <string name="next">İleri</string>
+    <string name="close">Kapat</string>
+    <string name="SKIP">GEÇ</string>
+    <string name="GOT_IT">ANLADIM</string>
+
+    <string name="list_movies">Eğlenceli Boyamalar</string>
+    <string name="search_movies">Kaydetme Özelliği</string>
+    <string name="library_movies">Paylaşma</string>
+
+    <string name="list_movies_desc">Birbirinden eğlenceli 12 tema ve 120 boyama resmi ile güzel vakit geçirebilirsiniz. Zengin renk içeriği, çerçeve ekleme, text ekleme ve gradual boyama gibi özellikler ile yaratıcılığınız gelişecek. </string>
+    <string name="search_movies_desc">Tamamladığınız boyamaları telefonunuza kaydedebilir, başka bir zaman kaldığınız yerden boyamaya devam edebilirsiniz.</string>
+    <string name="library_movies_desc">Tamamladığınız boyamayı sosyal medya platformlari üzerinden arkadaşlarınızla paylaşabilirsiniz.</string>
+
+</resources>

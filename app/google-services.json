@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233103420784",
+    "firebase_url": "https://color-garden-11cca.firebaseio.com",
+    "project_id": "color-garden-11cca",
+    "storage_bucket": "color-garden-11cca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233103420784:android:1a1b3de71590e9a8",
+        "android_client_info": {
+          "package_name": "uren.com.colorgarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233103420784-2512f7gp393o2eabeanlfapq8bp1npf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uren.com.colorgarden",
+            "certificate_hash": "835135492279180c8c9d6517641665756f89cf21"
+          }
+        },
+        {
+          "client_id": "233103420784-l0canqpbb5j3ehdv1aqjqdq1tujolsot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskhlib8dgQ8F25WBnxcBTOjq3pSXBJ8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233103420784-l0canqpbb5j3ehdv1aqjqdq1tujolsot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
